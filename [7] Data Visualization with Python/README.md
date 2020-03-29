@@ -1,5 +1,5 @@
 #### Week 1. Introduction to Data Visualization Tools
-*Introduction to Data Visualization
+* Introduction to Data Visualization
 *Introduction to Matplotlib
 *Basic Plotting with Matplotlib
 *Dataset on Immigration to Canada
