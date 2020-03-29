@@ -4,8 +4,8 @@
 * Basic Plotting with Matplotlib
 * Dataset on Immigration to Canada
 * Line Plots
-_* Lab: Introduction to Matplotlib and Line Plots
-* Quiz: Introduction to Data Visualization Tools_
+* _Lab: Introduction to Matplotlib and Line Plots_
+* _Quiz: Introduction to Data Visualization Tools_
 #### Week 2. Basic and Specialized Visualization Tools  
 * Area Plots
 * Histograms
