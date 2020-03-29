@@ -14,10 +14,10 @@
 * Box Plots
 * Scatter Plots
 * Bubble Plots
-* Lab: Basic Visualization Tools
-* Lab: Specialized Visualization Tools
-* Quiz: Basic Visualization Tools
-* Quiz: Specialized Visualization Tools  
+* _Lab: Basic Visualization Tools_
+* _Lab: Specialized Visualization Tools_
+* _Quiz: Basic Visualization Tools_
+* _Quiz: Specialized Visualization Tools_  
 #### Week 3. Advanced Visualizations and Geospatial Data
 * Waffle Charts
 * Word Clouds
@@ -25,8 +25,8 @@
 * Introduction to Folium and Map Styles
 * Maps with Markers
 * Choropleth Maps
-* Lab: Advanced Visualization Tools
-* Lab: Creating Maps and Visualizing Geospatial Data
-* Quiz: Advanced Visualization Tools
-* Quiz: Visualizing Geospatial Data
-* Peer-review Assignment
+* _Lab: Advanced Visualization Tools_
+* _Lab: Creating Maps and Visualizing Geospatial Data_
+* _Quiz: Advanced Visualization Tools_
+* _Quiz: Visualizing Geospatial Data_
+* _Peer-review Assignment_
