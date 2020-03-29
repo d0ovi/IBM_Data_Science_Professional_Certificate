@@ -1,13 +1,12 @@
-Week 1 - 
-Introduction to Data Visualization Tools
-Introduction to Data Visualization
-Introduction to Matplotlib
-Basic Plotting with Matplotlib
-Dataset on Immigration to Canada
-Line Plots
-Lab: Introduction to Matplotlib and Line Plots
-Quiz: Introduction to Data Visualization Tools
-Week 2 - Basic and Specialized Visualization Tools
+#### Week 1. Introduction to Data Visualization Tools
+*Introduction to Data Visualization
+*Introduction to Matplotlib
+*Basic Plotting with Matplotlib
+*Dataset on Immigration to Canada
+*Line Plots
+*Lab: Introduction to Matplotlib and Line Plots
+*Quiz: Introduction to Data Visualization Tools
+#### Week 2. Basic and Specialized Visualization Tools  
 Area Plots
 Histograms
 Bar Charts
@@ -18,8 +17,8 @@ Bubble Plots
 Lab: Basic Visualization Tools
 Lab: Specialized Visualization Tools
 Quiz: Basic Visualization Tools
-Quiz: Specialized Visualization Tools
-Week 3 - Advanced Visualizations and Geospatial Data
+Quiz: Specialized Visualization Tools  
+#### Week 3. Advanced Visualizations and Geospatial Data
 Waffle Charts
 Word Clouds
 Seaborn and Regression Plots
